@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hola, soy Daisy Correa 👋
 
-Disfruto los desafíos, lo que me llevó a estudiar dos carreras profesionales simultáneamente. Mi experiencia laboral se ha inclinado hacia el derecho pero nunca he abandonado mi pasión por la informática, llegando a fusionar ambos campos. Al formar parte de equipos multidisciplinarios en los últimos años, recordé lo fascinante que es la programación, impulsándome a regresar al mundo de la tecnología y querer ser parte de proyectos innovadores y desafiantes.
+Disfruto los desafíos, lo que me llevó a estudiar dos carreras profesionales simultáneamente (Ingeniería en Software y Derecho). Mi experiencia laboral se ha inclinado hacia el derecho pero nunca he abandonado mi pasión por la informática, llegando a fusionar ambos campos. Al formar parte de equipos multidisciplinarios en los últimos años, recordé lo fascinante que es la programación, impulsándome a regresar al mundo de la tecnología y querer ser parte de proyectos innovadores y desafiantes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daisy-correa-675a1a211/) 
